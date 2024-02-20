@@ -1,0 +1,173 @@
+@media (max-width: 800px) {
+    .hero-box2 {
+        display: none;
+    }
+
+    .hero {
+        justify-content: center;
+    }
+
+    .hero-title {
+        font-size: 30px;
+        line-height: 55px;
+        text-align: center;
+    }
+
+    .hr1 {
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .btn {
+        margin-inline: auto;
+        display: flex;
+
+    }
+
+    .hero-desc {
+        text-align: center;
+    }
+
+    .btn:active {
+        background: chartreuse;
+        color: chocolate;
+        font-weight: 600
+    }
+
+
+
+    .services-title {
+        font-size: 30px;
+        line-height: 50px
+    }
+
+    .services-desc {
+        font-size: 16px;
+    }
+
+    .services {
+        margin-top: 50px;
+    }
+
+    .customer-title {
+        margin-top: -140px;
+        font-size: 40px;
+        line-height: 70px
+    }
+
+    .cus1-box1 {
+        display: none;
+    }
+
+    .cus1-title {
+        text-align: center
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 950px) {
+    .boxing1 {
+        margin-top: -150px;
+        display: block;
+    }
+
+    .boxing1-box1 {
+        margin-top: 50px;
+    }
+
+    .boxing1-text1 {
+        width: 150px;
+    }
+
+    .boxing2 {
+        margin-top: 20px;
+        display: block;
+        text-align: center
+    }
+
+    .boxing2-title {
+        display: flex;
+        margin-inline: auto;
+
+    }
+
+    .boxing2-p1 {
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .btn1 {
+        display: flex;
+        margin-top: 40px;
+        justify-content: center;
+        margin-inline: auto;
+    }
+
+
+    .boxing3 {
+        display: block;
+    }
+
+    .boxing3-box1 {
+        margin-top: 100px;
+    }
+
+    .box3-text4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .box3-box1 {
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .box3-text2 {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .box3-text3 {
+        display: flex;
+        margin-inline: auto;
+        padding-left: 30px;
+
+    }
+
+    .box3-text4 {
+        display: flex;
+        margin-inline: auto;
+
+    }
+
+    .boxing-footer {
+        display: block;
+    }
+
+    .foot2 {
+        margin-top: 50px;
+    }
+
+    .foter-box1 {
+        display: none;
+    }
+
+
+
+}
+
+
+
+@media (max-width: 435px) {
+    .box3-text3 {
+        padding-left: 0px;
+    }
+}
+
+;

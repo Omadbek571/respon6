@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Poppins";
+  padding: 46px 0px;
+  align-items: center;
+}
+.logo {
+  font-weight: 700;
+  font-size: 30px;
+  color: black;
+}
+.nav-ul {
+  display: flex;
+  gap: 60px;
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0%;
+}
+.link {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  color: black;
+}
+.link:hover {
+  color: chocolate;
+  font-weight: 500;
+}

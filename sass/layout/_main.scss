@@ -1,0 +1,163 @@
+.main {
+  margin-top: 170px;
+}
+.boxing1 {
+  display: flex;
+  justify-content: space-between;
+}
+.boxing1-box1 {
+  color: #fff;
+  background-color: black;
+  padding: 31px 100px;
+  border-radius: 15px;
+}
+.services {
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+}
+.boxing2-kub1 {
+  width: 370px;
+  height: 135px;
+  border-radius: 15px;
+  background: rgb(181, 181, 181);
+  margin-bottom: 51px;
+  @media (max-width: 920px) {
+    display: none;
+  }
+}
+.boxing2-kub2 {
+  width: 370px;
+  height: 135px;
+  border-radius: 15px;
+  background: rgb(181, 181, 181);
+  margin-left: 80px;
+  @media (max-width: 920px) {
+    display: none;
+  }
+}
+.boxing2-box2 {
+  margin-left: auto;
+}
+.services-title {
+  color: rgb(0, 0, 0);
+  font-family: "Poppins", sans-serif;
+  font-size: 58px;
+  font-weight: 700;
+  line-height: 87px;
+  max-width: 616px;
+  margin-bottom: 41px;
+}
+.services-desc {
+  max-width: 577px;
+  color: rgb(0, 0, 0);
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+}
+.customer {
+  margin-top: 200px;
+  font-family: "Poppins", sans-serif;
+}
+.customer-title {
+  max-width: 616px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-inline: auto;
+  color: rgb(0, 0, 0);
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 102px;
+  margin-bottom: 90px;
+}
+.customer-box1 {
+  display: flex;
+  align-items: center;
+  padding: 48px 36px;
+  border-radius: 10px;
+  background: rgb(247, 247, 247);
+  margin-top: 70px;
+}
+.cus1-box1 {
+  width: 349px;
+  height: 349px;
+  border-radius: 10px;
+  background: rgb(181, 181, 181);
+}
+.cus1-box2 {
+  margin-left: auto;
+}
+.cus1-desc {
+  max-width: 638px;
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 42px;
+  margin-top: 10px;
+}
+.cus1-title {
+  color: rgb(0, 0, 0);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 72px;
+}
+.boxing2 {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  margin-top: 209px;
+  justify-content: space-between;
+}
+.boxing2-title {
+  max-width: 300px;
+  color: rgb(0, 0, 0);
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 102px;
+}
+.boxing2-p1 {
+  max-width: 521px;
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 42px;
+}
+.boxing3 {
+  display: flex;
+  margin-top: 100px;
+  font-family: "Poppins", sans-serif;
+  justify-content: space-between;
+}
+.box3-box1 {
+  width: 300px;
+  height: 220px;
+  border-radius: 10px;
+  background: rgb(181, 181, 181);
+  margin-bottom: 26px;
+}
+.box3-text2 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 42px;
+  margin-bottom: 26px;
+}
+.box3-text3 {
+  max-width: 356px;
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  margin-bottom: 26px;
+}
+.box3-text4 {
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 48px;
+}
+.box3-text4:hover {
+  color: chocolate;
+}
