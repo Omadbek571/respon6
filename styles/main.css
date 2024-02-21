@@ -476,7 +476,7 @@ footer {
 .menu-button::before,
 .menu-button::after {
   display: block;
-  background-color: #fff;
+  background-color: black;
   position: absolute;
   height: 4px;
   width: 30px;
